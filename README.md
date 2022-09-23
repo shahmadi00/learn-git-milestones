@@ -288,7 +288,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/olsenbudanur/Desktop/Class Material/Fall 2022/DIG 245/learn-git-milestones
 2d | Link to `commit #3 from CLI`  [commit #2 from CLI](https://github.com/olsenbudanur/learn-git-milestones/commit/5d277bb1560cf57b332306288a22a98a889a0309)
 2e | 3rd Favorite emoji | 📚
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom] (https://github.com/olsenbudanur/learn-git-milestones/commit/41c6d4e5cba185fa90f5a46b57d57b4a68724fd7)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
