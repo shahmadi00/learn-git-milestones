@@ -281,7 +281,7 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😃
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/shahmadi00/learn-git-milestones/blob/main/README.md#Git-Basics)
-1c | Link to markdown tables docs | [Tables](https://www.markdownguide.org/extended-syntax/#tables)
+1c | Link to markdown tables docs | [Markdown Extended Syntax - Tables](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji | 🎉
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/olsenbudanur/learn-git-milestones/commit/fffdcee6f406acf59312f474b75c465996d25cdb)
